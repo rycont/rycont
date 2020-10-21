@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="./profile.svg" width="240px">
-</p>
-
-> 제가 하는 일을 사랑하고, 제가 사랑하는 일을 합니다.
-
-[Wanna see in English?🌐](https://github.com/rycont/rycont/blob/main/eng.md)
 
 # 잠깐만요!
 제가 다니는 학교가 새로운 입학생을 모집하고있어요! 많은 관심 부탁드립니다😆
@@ -24,7 +17,17 @@ https://www.youtube.com/watch?v=GQ-e7VzVYAk
 3. 원서 입력 및 접수 일정
 - 특별전형 : 2020.11.02.(월)-11.06(금)
 - 일반전형 : 2020.11.09.(월)-11.13(금)
+
 *입학문의 : 031-363-7812 (카카오톡 친구 디미고입학안내)
+
+
+<p align="center">
+    <img src="./profile.svg" width="240px">
+</p>
+
+> 제가 하는 일을 사랑하고, 제가 사랑하는 일을 합니다.
+
+[Wanna see in English?🌐](https://github.com/rycont/rycont/blob/main/eng.md)
 
 ## 저는..
 - 한국디지털미디어고등학교 웹프로그래밍과
