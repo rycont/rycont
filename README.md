@@ -8,11 +8,12 @@
 
 ## 저는..
 욕심 많은 기획자, 정한입니다. 하고 싶은 것들 모두, 해내고 싶습니다.
-
 - 한국디지털미디어고등학교 웹프로그래밍과
 - 안드로이드 개발 / 창업동아리 ["임플루드(#IMPLUDE)"](http://implude.com/)
 - 아이디어 실험동아리 ["이누"](http://github.com/inudevs)
 - 교내 인트라넷 ["디미고인"](https://github.com/dimigoin) 개발팀
+
+서비스 기획, 프론트엔드, 벡엔드, 디자인을 할 수 있습니다✌
 
 ## 관심사
 ### 프론트엔드 개발
@@ -39,14 +40,14 @@
 
 ### 기존 서비스 확장
 이미 있는 서비스만으로는 느끼기 힘든 경험을 느끼게 해주고싶어요.
-- [Discaffein](https://github.com/rycont/discaffein)
-- [notion-based-nextjs-blog-template](https://github.com/rycont/notion-based-nextjs-blog-template)
-- [google-assistant-tmap](https://github.com/rycont/google-assistant-tmap)
-- [namu-reader](https://github.com/rycont/namu-reader)
-- [codegen-ace](https://github.com/DIMI19WP/codegen-ace)
-- [Benepanda](https://github.com/DIMI19WP/benepanda)
-- [selfcheck-front](https://github.com/rycont/selfcheck-front)
-- [flowchat](https://github.com/flowchat-dev)
-- [spotify-gist-display](https://github.com/rycont/spotify-gist-display)
+- [Discaffein](https://github.com/rycont/discaffein)(디스코드, 카카오톡)
+- [spotify-gist-display](https://github.com/rycont/spotify-gist-display)(스포티파이, Gist)
+- [notion-based-nextjs-blog-template](https://github.com/rycont/notion-based-nextjs-blog-template)(노션)
+- [google-assistant-tmap](https://github.com/rycont/google-assistant-tmap)(구글 어시스턴트, 티맵)
+- [namu-reader](https://github.com/rycont/namu-reader)(나무위키)
+- [codegen-ace](https://github.com/DIMI19WP/codegen-ace)(코드젠(한국디지털미디어고등학교 교내OJ))
+- [Benepanda](https://github.com/DIMI19WP/benepanda)(베네듀(한국디지털미디어고등학교 교내 학습지원 서비스))
+- [selfcheck-front](https://github.com/rycont/selfcheck-front)(코로나19 건강상태 자가진단)
+- [flowchat](https://github.com/flowchat-dev)(카카오톡)
 
 [더 자세한 이야기는?😊](https://rycont.github.io/)
