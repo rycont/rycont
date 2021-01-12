@@ -17,13 +17,19 @@
 
 ## 관심사
 ### 프론트엔드 개발
-디자인 할줄 아는 프론트엔드 개발자입니다 :)
-- [Shared](https://github.com/rycont/rycont-shared)
-- [리페어리](https://github.com/refairy/refairy-frontend)
-- [요정의 편지](https://github.com/rycont/letter-elf-frontend)
-- [Escapers](https://github.com/rycont/escaper)
-- [2021 디미고인](https://github.com/dimigoin/dimigoin-front-v3)(미공개)
-- [리드밸리](https://github.com/readvalley/frontend)
+프론트를 
+- [2021 디미고인](https://github.com/dimigoin/dimigoin-front-v3)(미공개) : React 사용
+- [Shared](https://github.com/rycont/rycont-shared) : 플레인
+- [요정의 편지](https://github.com/rycont/letter-elf-frontend) : 플레인
+- [Escapers](https://github.com/rycont/escaper) : VueJS
+- [리드밸리](https://github.com/readvalley/frontend) : Vue
+
+### 서비스 디자인
+- [디넌](https://github.com/Gijuno/DIENEN)(미공개, 한국디지털미디어고등학교 교내 급식 도우미)
+- [FlowChat](https://www.figma.com/file/0mBMNcqQRgz4VfZrw9T8KV/FlowChat-v2-UIX-Design?node-id=0%3A1) : 멀티디바이스 지원 메신저 서비스
+- [Sendo](https://www.figma.com/file/SxxKVdWVRCYoKI84Cvn5PS/Untitled?node-id=0%3A1) : 타임라인 기반 크로스플랫폼 데이터 공유 서비스
+- [리페어리](https://github.com/refairy/refairy-frontend) : 대한민국 표기 오류 검출 서비스, [JominJun(Minjun)](https://github.com/JoMinjun)님과 협업 디자인
+- [푸름말](https://www.figma.com/file/6qgOtspmQZnuRND4xjO2Ih/%ED%91%B8%EB%A6%84%EB%A7%90?node-id=0%3A1) : 청원 게시판 플랫폼
 
 ### 프론트엔드 분석
 매우 좋아해요!! 가장 관심이 많습니다!
@@ -48,6 +54,6 @@
 - [codegen-ace](https://github.com/DIMI19WP/codegen-ace)(코드젠(한국디지털미디어고등학교 교내OJ))
 - [Benepanda](https://github.com/DIMI19WP/benepanda)(베네듀(한국디지털미디어고등학교 교내 학습지원 서비스))
 - [selfcheck-front](https://github.com/rycont/selfcheck-front)(코로나19 건강상태 자가진단)
-- [flowchat](https://github.com/flowchat-dev)(카카오톡)
+- [FlowChat](https://github.com/flowchat-dev)(카카오톡)
 
 [더 자세한 이야기는?😊](https://rycont.github.io/)
