@@ -2,14 +2,14 @@
     <img src="./eng.svg" width="240px">
 </p>
 
-> I love what i do, i do what i love
+> I love what I do, I do what I love
 
 [한국어로 보고싶으신가요?](https://github.com/rycont/rycont/blob/main/README.md)
 
 ## I am...
 - Korea Digital Media High School Web Programming Department 19th Student
 - Android Deveoping Startup ["#IMPLUDE"](http://implude.com/)
-- Idea experimentation circle ["INU"](http://github.com/inudevs)
+- Idea Experimentation Circle ["INU"](http://github.com/inudevs)
 - School Intranet Frontend Developer ["DIMIGOIN"](https://github.com/dimigoin)
 
 ## Interests
@@ -27,7 +27,7 @@ I like to analysis and utilize it
 - [Gnex](https://github.com/rycont/Gnex)
 
 ### Extend Existing Service
-I wanna make you feel a experience that cannot be felt with existing service
+I wanna make you feel a experience that cannot feet with existing service
 - [google-assistant-tmap](https://github.com/rycont/google-assistant-tmap)
 - [namu-reader](https://github.com/rycont/namu-reader)
 - [codegen-ace](https://github.com/DIMI19WP/codegen-ace)
